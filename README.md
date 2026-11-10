@@ -1,4 +1,8 @@
 ## Hi there 👋
+![](https://github.com/ArtyKourakin/Readme_stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/ArtyKourakin/Readme_stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/ArtyKourakin/Readme_stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/ArtyKourakin/Readme_stats/blob/generated/languages.svg#gh-light-mode-only)
 
 <!--
 **ArtyKourakin/ArtyKourakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
